@@ -1,10 +1,8 @@
-
-
-# 💫 About Me:
-👨‍💻 I'm Linh Ha (or Liam) - currently a software engineer intern at [Ryco.io](ryco.io)<br>
-🎓 I'm a rising junior at the University of South Florida studying Computer Science Mathematics<br>
-😄 I was a SWE intern at Bac Ha Software during the summer of 2024<br>
-🌱 I’m currently learning full-stack development
+# 💫 Hey, I'm Linh Ha (or Liam)!
+🎓 I'm a rising junior at the University of South Florida studying Computer Science & Math<br>
+👨‍💻 I'm currently a software engineer intern at **Ryco.io**<br>
+😄 I was a SWE intern at Bac Ha Software during last 2024 summer<br>
+🌱 I’m currently learning how to build software with scalability
 <br>⚡ When I'm not coding, I'm probably yapping at the gym, tennis court, badminton court, or a Valorant match :)
 <br>📫 How to reach me: haduylinh2005.work@gmail.com
 <br>💬 Let's have a coffee chat!<br><br>
