@@ -1,7 +1,7 @@
-# 💫 Hey, I'm Linh Ha (or Liam)!
-🎓 I'm a rising junior at the University of South Florida studying Computer Science & Math<br>
-👨‍💻 I'm currently a software engineer intern at **Ryco.io**<br>
-😄 I was a SWE intern at Bac Ha Software during last 2024 summer<br>
+# 💫 Hey, I'm Linh (or Liam)!
+🎓 I'm a rising junior at the University of South Florida studying CS & Math<br>
+👨‍💻 I'm currently a SWE intern at **Palantir Technologies**<br>
+😄 I was a SWE intern at Ryco in Fall 2024 & Spring 2025, and BHSoft during Summer 2024<br>
 🌱 I’m currently learning how to build software with scalability
 <br>⚡ When I'm not coding, I'm probably yapping at the gym, tennis court, badminton court, or a Valorant match :)
 <br>📫 How to reach me: haduylinh2005.work@gmail.com
@@ -10,7 +10,6 @@
 
 # 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
