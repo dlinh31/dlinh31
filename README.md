@@ -1,7 +1,7 @@
 # 💫 Hey, I'm Linh (or Liam)!
 🎓 I'm a rising junior at the University of South Florida studying CS & Math<br>
-👨‍💻 I'm currently a SWE intern at **Palantir Technologies**<br>
-😄 I was a SWE intern at Ryco in Fall 2024 & Spring 2025, and BHSoft during Summer 2024<br>
+👨‍💻 I'm currently a SWE intern at **HubSpot**<br>
+😄 I was a SWE intern at Palantir (Summer 2025), Ryco (Fall 2024 & Spring 2025), and BHSoft (Summer 2024)<br>
 🌱 I’m currently learning how to build software with scalability
 <br>⚡ When I'm not coding, I'm probably yapping at the gym, tennis court, badminton court, or a Valorant match :)
 <br>📫 How to reach me: haduylinh2005.work@gmail.com
